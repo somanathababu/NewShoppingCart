@@ -1,0 +1,199 @@
+[
+{
+"filter_id":1,
+"products":[{
+             "product_id":10,
+             "product_name":"electric fry",
+             "imgSrc":"image folder/home appliances image-1.jpeg ",
+             "price":5000
+             },
+             {
+             "product_id":11,
+             "product_name":"gas stove",
+             "imgSrc":"image folder/home appliances image-2.jpeg",
+             "price":3500
+             },
+             {
+             "product_id":13,
+             "product_name":"philco",
+             "imgSrc":"image folder/home appliances image-3.jpeg",
+             "price":500
+             },
+             {
+             "product_id":14,
+             "product_name":"jug",
+             "imgSrc":"image folder/home appliances image-4.jpeg",
+             "price":6000
+             },
+             {
+             "product_id":15,
+             "product_name":"toost",
+             "imgSrc":"image folder/home appliances image-5.jpeg",
+             "price":500
+             },
+             {
+             "product_id":16,
+             "product_name":"mixer",
+             "imgSrc":"image folder/home appliances image-6.png",
+             "price":1000
+             }]
+ },
+ {
+ "filter_id":2,
+ "products":[{
+            "product_id":17,
+            "product_name":"half hand shirt",
+            "imgSrc":"image folder/mens image-1.jpeg",
+            "price":3000
+            },
+            {
+            "product_id":18,
+            "product_name":"Shirt pant",
+            "imgSrc":"image folder/mens image-2.jpeg",
+            "price":1999
+            },
+            {
+            "product_id":19,
+            "product_name":"Men Jeans",
+            "imgSrc":"image folder/mens image-3.jpeg",
+            "price":1500
+            },
+            {
+            "product_id":20,
+            "product_name":"full hand shirt",
+            "imgSrc":"image folder/mens image-4.jpeg",
+            "price":600
+            },
+            {
+            "product_id":21,
+            "product_name":"formal dress",
+            "imgSrc":"image folder/mens image-5.jpeg",
+            "price":999
+            },
+            {
+            "product_id":22,
+            "product_name":"avif",
+            "imgSrc":"image folder/mens image-6.avif",
+            "price":3000
+            }]
+            
+ },
+ {
+ "filter_id":3,
+ "products":[{
+             "product_id":23,
+             "product_name":"saree",
+             "imgSrc":"image folder/women dress image-1.jpg",
+             "price":600
+             },
+             {
+             "product_id":24,
+             "product_name":"women T Shirt",
+             "imgSrc":"image folder/women dress image-2.jpeg",
+             "price":500
+             },
+             {
+             "product_id":25,
+             "product_name":"women trackpant",
+             "imgSrc":"image folder/women dress image-3.jpeg",
+             "price":1000
+             },
+             {
+             "product_id":26,
+             "product_name":"function saree",
+             "imgSrc":"image folder/women dress image-4.jpg",
+             "price":3000
+             },
+             {
+             "product_id":27,
+             "product_name":"gown",
+             "imgSrc":"image folder/women dress image-5.jpeg",
+             "price":1500
+             },
+             {
+             "product_id":28,
+             "product_name":"fashion saree",
+             "imgSrc":"image folder/womens image-6.png",
+             "price":600
+             }]
+ },
+ {
+ "filter_id":4,
+ "products":[{
+              "product_id":29,
+              "product_name":"ice cream",
+              "imgSrc":"image folder/food image-1.jpeg",
+              "price":399
+              },
+              {
+              "product_id":30,
+              "product_name":"chicken briyani",
+              "imgSrc":"image folder/food image-2.jpeg",
+              "price":150
+              },
+              {
+              "product_id":31,
+              "product_name":"samosa",
+              "imgSrc":"image folder/food image-3.jpeg",
+              "price":150
+              },
+              {
+              "product_id":32,
+              "product_name":"noodools",
+              "imgSrc":"image folder/food image-4.jpeg",
+              "price":399
+              },
+              {
+              "product_id":33,
+              "product_name":"cool icecream",
+              "imgSrc":"image folder/food image-5.jpeg",
+              "price":399
+              },
+              {
+              "product_id":34,
+              "product_name":"variety foods",
+              "imgSrc":"image folder/food images-6.jpg",
+              "price":60
+              }]
+ },
+ {
+ "filter_id":5,
+ "products":[{
+              "product_id":35,
+              "product_name":"AREA MAZES",
+              "imgSrc":"image folder/books image-1.jpg",
+              "price":100
+              },
+              {
+              "product_id":36,
+              "product_name":"BHAGAVAD GITA",
+              "imgSrc":"image folder/books image-2.jpeg",
+              "price":199
+              },
+              {
+              "product_id":37,
+              "product_name":"Tenaliraman story",
+              "imgSrc":"image folder/books image-3.jpg",
+              "price":499
+              },
+              {
+              "product_id":38,
+              "product_name":"novel books",
+              "imgSrc":"image folder/books image-4.jpeg",
+              "price":499
+              },
+              {
+              "product_id":39,
+              "product_name":"The Year Of Witching",
+              "imgSrc":"image folder/books image-5.jpeg",
+              "price":399
+              },
+              {
+              "product_id":40,
+              "product_name":"Tamil Books",
+              "imgSrc":"image folder/books image-6.jpeg",
+              "price":399
+              }]
+ 
+}
+]
